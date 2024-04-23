@@ -1,6 +1,6 @@
 # Jetson Nano DNN image
 ![output image]( https://qengineering.eu/images/SDcard32GBJetson.webp )<br/>
-## A Jetson Nano image with OpenCV, TensorFlow and Pytorch
+## A Jetson Nano image 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 
 ------------
