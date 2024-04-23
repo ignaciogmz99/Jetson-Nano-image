@@ -23,6 +23,5 @@
 Importar tanto TensorFlow como OpenCV en Python puede arrojar el error: no se puede asignar memoria en un bloque TLS estático.<br/>
 Este comportamiento solo ocurre en un sistema aarch64 y es causado por los requisitos de memoria de OpenMP que no se cumplen<br/>
 
-!
 
 
